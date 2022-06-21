@@ -33,7 +33,7 @@
     "firebase": "^9.1.3"
   },
   "dependencies": {
-    "firebaseui": "git+https://github.com/AlexanderChiclana/firebaseui-web/tree/development"
+    "firebaseui": "git+https://github.com/AlexanderChiclana/firebaseui-web.git#development"
   },
   "devDependencies": {
     "@types/react": "^17.0.0",
